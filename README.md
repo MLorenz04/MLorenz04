@@ -1,1 +1,2 @@
-Zdravím! Jsem sedmnáctiletý programátor z Prahy, zajímající se v Javě a webových stránkách.
+Hey! Welcome to my Git! My name´s Matthew.
+I´m seventeen years old student of IT, web developer, and programmer. Here you can find the works/project on which I am currently working.
