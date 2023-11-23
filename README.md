@@ -1,5 +1,5 @@
 
-![wallpaperflare com_wallpaper](https://github.com/MLorenz04/MLorenz04/assets/83949689/d9a9ae05-9fba-4505-9de2-768dee8bfa2c)
+![wallpaperflare com_wallpaper](https://github.com/MLorenz04/MLorenz04/assets/83949689/6a2f60bb-2791-401e-8758-dbaf3ab88bc1)
 
 
 # Hey there! 
