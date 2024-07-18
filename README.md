@@ -19,6 +19,13 @@ I also tutor a few programming and other languages, such as HTML, CSS, Javascrip
 # My project and repositories
 Here you can find the works/projects on which I am **currently** working. Some of them are old and some of them are not updated or not finished... We all know that xD
 
+
+## Connections
+Connections is a logic game in which you are asked to find four groups, each having four words with something in common.
+
+> [!NOTE]
+> This project is nearly finished and I hope that one day i will add more features :)
+
 ## AeMMO
 AeMMO is a series of Minecraft plugins to enhance the vanilla experience. Some of those plugins are AeArcheology or AeFishing. In the future, I would like to enhance mining and lumberjacking :)
 
